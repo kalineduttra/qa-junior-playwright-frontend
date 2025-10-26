@@ -1,0 +1,1 @@
+# qa-junior-playwright-frontend
