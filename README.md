@@ -15,7 +15,7 @@
 
 ```bash
 git clone https://github.com/kalineduttra/qa-junior-playwright-frontend.git
-cd qa-junior-playwright-frontendS
+cd qa-junior-playwright-frontend
 ```
 
 ### 2. Instala as dependencias
